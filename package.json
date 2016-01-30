@@ -1,7 +1,7 @@
 {
   "name": "arrow-key-codes",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the keyboard codes for the 4 directional arrow keys",
   "license": "MIT",
   "repository": "bendrucker/arrow-key-codes",
