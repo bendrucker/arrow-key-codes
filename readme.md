@@ -1,4 +1,4 @@
-# arrow-key-codes [![Build Status](https://travis-ci.org/bendrucker/arrow-key-codes.svg?branch=master)](https://travis-ci.org/bendrucker/arrow-key-codes)
+# arrow-key-codes [![Build Status](https://travis-ci.org/bendrucker/arrow-key-codes.svg?branch=master)](https://travis-ci.org/bendrucker/arrow-key-codes) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/arrow-key-codes.svg)](https://greenkeeper.io/)
 
 > Get the keyboard codes for the 4 directional arrow keys
 
